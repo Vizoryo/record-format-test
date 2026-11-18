@@ -1,0 +1,64 @@
+name: "Copper Fern Kitchen — New American restaurant in Portland, Oregon, United States"
+identity:
+  category: New American restaurant
+  place: "Portland, Oregon (US)"
+  status: operating
+  record_built: 2026-11-03
+what_it_does:
+  text: "Copper Fern Kitchen is a New American restaurant in Portland's Pearl District, Oregon, serving dinner from a seasonal menu built on Pacific Northwest produce, plus a chef's tasting menu. Guests can eat in or order takeaway, and the menu always includes vegetarian dishes."
+  cuisine: "New American, Pacific Northwest"
+  how_it_serves: dine-in · takeaway
+services:
+  items[3]:
+    - name: Chef's tasting menu
+      price: USD 95 per person (as of 2026-11-03)
+      includes: seven courses
+      conditions: whole table only; book 48 hours ahead
+    - name: Wine pairing
+      price: USD 55 per person (as of 2026-11-03)
+    - name: Private dining room
+      conditions: up to 14 guests
+location:
+  address: "1418 NW Glisan Street, Portland, OR 97209, United States"
+  neighbourhood: Pearl District
+contact_and_actions:
+  phone: +1 503-555-0137
+  website: "https://copperfern.example"
+  menu: "https://copperfern.example/menu"
+  reserve_a_table: "https://copperfern.example/reserve"
+  reservations: accepted
+opening_hours:
+  time_zone: America/Los_Angeles
+  sunday: "17:00–21:00 (5 pm–9 pm)"
+  monday: closed
+  tuesday: "17:00–22:00 (5 pm–10 pm)"
+  wednesday: "17:00–22:00 (5 pm–10 pm)"
+  thursday: "17:00–22:00 (5 pm–10 pm)"
+  friday: "17:00–23:00 (5 pm–11 pm)"
+  saturday: "17:00–23:00 (5 pm–11 pm)"
+good_to_know:
+  vegetarian_options: yes
+  wheelchair_accessible_entrance: yes
+  parking: not stated by the business
+  payment: "card, contactless"
+  price_range: USD 22–38 per main course
+  languages_spoken: English
+  cancellation: free up to 24 hours before; later cancellations USD 25 per guest
+  corkage: USD 20 per bottle
+from_the_business_owner:
+  tasting_menu: please tell us about allergies when you book (stated by the business owner on 2026-11-01)
+questions_and_answers:
+  items[2]:
+    - name: Do you take walk-ins?
+      answer: "yes, at the bar; tables are by reservation"
+      notes[1]: Stated by the business
+    - name: Can you seat a group of 12?
+      answer: "yes, in the private dining room; book by phone"
+      notes[1]: Stated by the business owner on 2026-11-01
+about_this_record:
+  record_origin: claimed by the business
+  items[1]: Checked across 3 public sources on 2026-11-03
+  publisher: Independent record compiled from public sources by Vizoryo. Not the business's own website.
+  correct_this_record: "https://www.vizoryo.com/en/correct/e1-0000"
+  remove_this_record: "https://www.vizoryo.com/en/remove/e1-0000"
+  machine_readable: "https://www.vizoryo.com/en/business/restaurant/portland/copper-fern-kitchen.json · https://www.vizoryo.com/en/business/restaurant/portland/copper-fern-kitchen.md"

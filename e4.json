@@ -1,0 +1,90 @@
+{
+  "name": "Tidewater Bike Works — bicycle shop in Norfolk, Virginia, United States",
+  "identity": {
+    "category": "Bicycle shop",
+    "place": "Norfolk, Virginia (US)",
+    "status": "operating",
+    "record_built": "2026-11-01"
+  },
+  "what_it_does": {
+    "text": "Tidewater Bike Works is a bicycle shop in Norfolk, Virginia, that sells road, gravel and city bikes and repairs bikes of any brand in its own workshop, usually within two days. It also rents bikes by the day.",
+    "customers_served": "commuters, road and gravel riders, families",
+    "how_it_serves": "in store",
+    "brands_carried": "Trek, Surly, Brompton"
+  },
+  "services": {
+    "items": [
+      {
+        "name": "Standard tune-up",
+        "price": "USD 85 (as of 2026-11-01)",
+        "duration": "usually 2 days",
+        "includes": "brake and gear adjustment; wheel true; chain clean"
+      },
+      {
+        "name": "Professional bike fitting",
+        "price": "USD 150 (as of 2026-11-01)",
+        "duration": "90 minutes"
+      },
+      {
+        "name": "Daily bike rental",
+        "price": "USD 40 per day (as of 2026-11-01)",
+        "conditions": "photo ID and card deposit"
+      },
+      "Bike sales",
+      "Repairs and tune-ups",
+      "Wheel truing and building"
+    ],
+    "services_listed_on_the_business_s_website": "https://tidewaterbikes.example/workshop"
+  },
+  "location": {
+    "address": "512 W 21st Street, Norfolk, VA 23517, United States",
+    "neighbourhood": "Ghent"
+  },
+  "contact_and_actions": {
+    "phone": "+1 757-555-0118",
+    "website": "https://tidewaterbikes.example",
+    "book_a_repair": "https://tidewaterbikes.example/book-repair",
+    "email": "shop@tidewaterbikes.example"
+  },
+  "opening_hours": {
+    "time_zone": "America/New_York",
+    "sunday": "closed",
+    "monday": "closed",
+    "tuesday": "10:00–18:00 (10 am–6 pm)",
+    "wednesday": "10:00–18:00 (10 am–6 pm)",
+    "thursday": "10:00–18:00 (10 am–6 pm)",
+    "friday": "10:00–18:00 (10 am–6 pm)",
+    "saturday": "09:00–17:00 (9 am–5 pm)"
+  },
+  "good_to_know": {
+    "wheelchair_accessible_entrance": "not stated by the business",
+    "parking": "street parking",
+    "payment": "card, cash",
+    "test_rides": "yes",
+    "new_bike_service_plan": "free adjustments for the first 6 months after purchase"
+  },
+  "from_the_business_owner": {
+    "repairs": "drop off before noon for same-week service (stated by the business owner on 2026-10-30)"
+  },
+  "questions_and_answers": {
+    "items": [
+      {
+        "name": "Do you repair e-bikes?",
+        "answer": "yes, mechanical repairs on any e-bike; motor and battery work only on brands we sell",
+        "notes": [
+          "Stated by the business owner on 2026-10-30"
+        ]
+      }
+    ]
+  },
+  "about_this_record": {
+    "record_origin": "claimed by the business",
+    "items": [
+      "Checked across 3 public sources on 2026-11-01"
+    ],
+    "publisher": "Independent record compiled from public sources by Vizoryo. Not the business's own website.",
+    "correct_this_record": "https://www.vizoryo.com/en/correct/e4-0000",
+    "remove_this_record": "https://www.vizoryo.com/en/remove/e4-0000",
+    "machine_readable": "https://www.vizoryo.com/en/business/bicycle-shop/norfolk/tidewater-bike-works.json · https://www.vizoryo.com/en/business/bicycle-shop/norfolk/tidewater-bike-works.md"
+  }
+}

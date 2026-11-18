@@ -1,0 +1,94 @@
+name: "Northlake Plumbing — plumber serving Austin and area, United States"
+identity:
+  category: "Plumber"
+  place: "serves Austin, Round Rock and Pflugerville, Texas (US)"
+  status: "operating"
+  record_built: "2026-11-02"
+what_it_does:
+  text: "Northlake Plumbing repairs and replaces plumbing in homes and small rental buildings in Austin, Round Rock and Pflugerville, Texas. It finds and fixes leaks, clears blocked drains and installs gas and electric water heaters, standard and tankless, and gives a fixed price before work starts. It works at the customer's property and has no walk-in shop."
+  customers_served: "homeowners, landlords"
+  how_it_serves: "visits customers"
+  specialties: "tankless water heaters, slab leak detection"
+services:
+  items:
+    - name: "Water heater replacement"
+      price: "from USD 1,450 per unit (as of 2026-11-02)"
+      duration: "about 4 hours"
+      includes: "removal of the old unit; city permit; haul-away"
+      conditions: "tankless units are quoted on site"
+    - name: "Drain clearing"
+      price: "USD 189 per visit (as of 2026-11-02)"
+      duration: "about 1 hour"
+      includes: "camera check of the line"
+    - name: "Slab leak detection"
+      price: "USD 350 per visit (as of 2026-11-02)"
+      conditions: "credited against the repair"
+    - "Leak detection and repair"
+    - "Water heater repair"
+    - "Tankless water heater installation"
+    - "Pipe repair and repiping"
+    - "Sewer line camera inspection"
+    - "Toilet repair"
+    - "Faucet and fixture installation"
+    - "Garbage disposal repair"
+    - "Water softener installation"
+  services_listed_on_the_business_s_website: "https://northlake-plumbing.example/services"
+service_area:
+  base_city: "Austin, Texas (US)"
+  areas_served: "Austin; Round Rock; Pflugerville"
+  area_note: "within 25 miles of downtown Austin"
+contact_and_actions:
+  phone: "+1 512-555-0142"
+  emergency_phone: "+1 512-555-0199"
+  website: "https://northlake-plumbing.example"
+  request_a_quote: "https://northlake-plumbing.example/quote"
+  book_an_appointment: "https://northlake-plumbing.example/book"
+  appointment_policy: "appointment required"
+opening_hours:
+  time_zone: "America/Chicago"
+  sunday: "closed"
+  monday: "07:00–18:00 (7 am–6 pm)"
+  tuesday: "07:00–18:00 (7 am–6 pm)"
+  wednesday: "07:00–18:00 (7 am–6 pm)"
+  thursday: "07:00–18:00 (7 am–6 pm)"
+  friday: "07:00–18:00 (7 am–6 pm)"
+  saturday: "08:00–12:00 (8 am–12 pm)"
+  "2026-11-26 (Thanksgiving)": "closed"
+licences_and_certifications:
+  items:
+    - name: "Master plumber licence M-00000"
+      issuer: "Texas State Board of Plumbing Examiners"
+      notes:
+        - "Checked against the public register on 2026-10-30"
+    - name: "General liability insurance"
+      notes:
+        - "Stated by the business"
+good_to_know:
+  "24-hour emergency service": "yes"
+  bonded: "not stated by the business"
+  free_estimates: "yes, for jobs over USD 500"
+  how_it_charges: "flat rate per job"
+  payment: "card, cash, check"
+  languages_spoken: "English, Spanish"
+  warranty: "1 year on labour; manufacturer's warranty on parts"
+  cancellation: "free up to 24 hours before the visit"
+from_the_business_owner:
+  before_the_visit: "make the main water shut-off valve and the water heater reachable (stated by the business owner on 2026-11-01)"
+questions_and_answers:
+  items:
+    - name: "Is there a fee for the visit?"
+      answer: "USD 79, credited against the repair if the work goes ahead"
+      notes:
+        - "Stated by the business owner on 2026-11-01"
+    - name: "Do you pull permits?"
+      answer: "yes, for every water heater replacement"
+      notes:
+        - "Stated by the business owner on 2026-11-01"
+about_this_record:
+  record_origin: "claimed by the business"
+  items:
+    - "Checked across 3 public sources on 2026-11-02"
+  publisher: "Independent record compiled from public sources by Vizoryo. Not the business's own website."
+  correct_this_record: "https://www.vizoryo.com/en/correct/e2-0000"
+  remove_this_record: "https://www.vizoryo.com/en/remove/e2-0000"
+  machine_readable: "https://www.vizoryo.com/en/business/plumber/austin/northlake-plumbing.json · https://www.vizoryo.com/en/business/plumber/austin/northlake-plumbing.md"

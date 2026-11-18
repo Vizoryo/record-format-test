@@ -1,0 +1,85 @@
+{
+  "name": "Ledgerline Payroll — payroll software for small businesses, United States",
+  "identity": {
+    "category": "Payroll software company",
+    "place": "online; serves the United States",
+    "status": "operating",
+    "record_built": "2026-11-05"
+  },
+  "what_it_does": {
+    "text": "Ledgerline Payroll sells online payroll software for small businesses in the United States with 1–50 employees. It runs payroll, pays staff by direct deposit, files federal and state payroll taxes, and moves a company's year-to-date payroll over from another provider. It works fully online and has no office open to visitors.",
+    "customers_served": "small businesses with 1–50 employees",
+    "how_it_serves": "online",
+    "countries_served": "United States"
+  },
+  "services": {
+    "items": [
+      {
+        "name": "Core payroll plan",
+        "price": "USD 39 per month plus USD 6 per employee (as of 2026-11-05)",
+        "includes": "unlimited pay runs; direct deposit; federal and state tax filing; W-2 and 1099 forms"
+      },
+      {
+        "name": "Time tracking add-on",
+        "price": "USD 3 per employee per month (as of 2026-11-05)"
+      },
+      "Payroll processing",
+      "Direct deposit",
+      "Federal and state payroll tax filing",
+      "W-2 and 1099 forms",
+      "Time-tracking integration"
+    ],
+    "integrations": "QuickBooks Online, Xero",
+    "services_listed_on_the_business_s_website": "https://ledgerline.example/features"
+  },
+  "where_it_works": {
+    "office_open_to_visitors": "no — online only",
+    "countries_served": "United States"
+  },
+  "contact_and_actions": {
+    "phone": "not stated by the business",
+    "email": "sales@ledgerline.example",
+    "website": "https://ledgerline.example",
+    "book_a_demo": "https://ledgerline.example/demo",
+    "contact_form": "https://ledgerline.example/contact"
+  },
+  "opening_hours": {
+    "opening_hours": "not stated"
+  },
+  "good_to_know": {
+    "how_it_charges": "monthly subscription",
+    "free_trial": "yes, 30 days",
+    "support_hours": "not stated by the business",
+    "languages": "English",
+    "setup_fee": "none",
+    "contract": "month to month; cancel any time"
+  },
+  "questions_and_answers": {
+    "items": [
+      {
+        "name": "Can I switch from another payroll provider mid-year?",
+        "answer": "yes; past payroll records for the year are imported during setup",
+        "notes": [
+          "Stated by the business"
+        ]
+      },
+      {
+        "name": "Do you handle year-end forms?",
+        "answer": "yes, W-2 and 1099 forms are filed and delivered to employees",
+        "notes": [
+          "Stated by the business owner on 2026-11-03"
+        ]
+      }
+    ]
+  },
+  "about_this_record": {
+    "record_origin": "claimed by the business",
+    "items": [
+      "Checked across 3 public sources on 2026-11-05"
+    ],
+    "publisher": "Independent record compiled from public sources by Vizoryo. Not the business's own website.",
+    "correct_this_record": "https://www.vizoryo.com/en/correct/e5-0000",
+    "remove_this_record": "https://www.vizoryo.com/en/remove/e5-0000",
+    "machine_readable": "https://www.vizoryo.com/en/business/software-company/united-states/ledgerline-payroll.json · https://www.vizoryo.com/en/business/software-company/united-states/ledgerline-payroll.md"
+  }
+}

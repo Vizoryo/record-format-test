@@ -1,0 +1,97 @@
+{
+  "name": "מרפאת שיניים שקד (Shaked Dental) — מרפאת שיניים בחיפה, ישראל",
+  "identity": {
+    "category": "מרפאת שיניים",
+    "place": "חיפה",
+    "status": "פעיל",
+    "record_built": "2026-11-04"
+  },
+  "what_it_does": {
+    "text": "מרפאת שיניים שקד היא מרפאת שיניים בחיפה המטפלת במבוגרים ובילדים, עם טיפולי שיניים שגרתיים, השתלות וטיפולי שורש, וייעוץ ראשון ללא תשלום. הטיפולים במרפאה, בתיאום מראש.",
+    "patients": "מבוגרים, ילדים",
+    "how_it_serves": "במרפאה, בתיאום מראש",
+    "specialties": "השתלות שיניים, רפואת שיניים לילדים"
+  },
+  "services": {
+    "items": [
+      {
+        "name": "השתלת שן",
+        "price": "מ-ILS 3,800 לשתל (נכון ל-2026-11-04)",
+        "conditions": "לא כולל כתר"
+      },
+      {
+        "name": "ייעוץ ראשון",
+        "price": "ללא תשלום (נכון ל-2026-11-04)",
+        "duration": "30 דקות"
+      },
+      {
+        "name": "ניקוי אבנית",
+        "price": "ILS 280 (נכון ל-2026-11-04)"
+      },
+      "רפואת שיניים כללית",
+      "השתלות שיניים",
+      "רפואת שיניים לילדים",
+      "טיפולי שורש",
+      "הלבנת שיניים"
+    ],
+    "services_listed_on_website": "https://shaked-dental.example/treatments"
+  },
+  "location": {
+    "address": "שדרות הדוגמה 45, קומה 2, חיפה 3300000, ישראל"
+  },
+  "contact_and_actions": {
+    "phone": "+972 4-000-0202",
+    "website": "https://shaked-dental.example",
+    "book_an_appointment": "https://shaked-dental.example/appointments",
+    "appointment_policy": "בתיאום מראש בלבד"
+  },
+  "opening_hours": {
+    "time_zone": "Asia/Jerusalem",
+    "sunday": "08:00–19:00",
+    "monday": "08:00–19:00",
+    "tuesday": "08:00–19:00",
+    "wednesday": "08:00–19:00",
+    "thursday": "08:00–19:00",
+    "friday": "סגור",
+    "saturday": "סגור"
+  },
+  "licences_and_certifications": {
+    "items": [
+      {
+        "name": "רישיון מרפאה 00000",
+        "issuer": "משרד הבריאות",
+        "notes": [
+          "נבדק מול המרשם הציבורי ב-2026-10-29"
+        ]
+      }
+    ]
+  },
+  "good_to_know": {
+    "wheelchair_accessible_entrance": "לא צוין על ידי העסק",
+    "parking": "חניון ציבורי בבניין",
+    "insurance_accepted": "ביטוחי שיניים של קופות החולים (לפי העסק)",
+    "languages": "עברית, ערבית, אנגלית",
+    "cancel_appointment": "עד 24 שעות לפני ללא עלות"
+  },
+  "questions_and_answers": {
+    "items": [
+      {
+        "name": "האם מטפלים בילדים מגיל צעיר?",
+        "answer": "כן, מגיל 3",
+        "notes": [
+          "לפי בעל העסק, 2026-11-02"
+        ]
+      }
+    ]
+  },
+  "about_this_record": {
+    "record_origin": "נתבעה על ידי העסק",
+    "items": [
+      "נבדק מול 4 מקורות ציבוריים ב-2026-11-04"
+    ],
+    "publisher": "רשומה עצמאית שנאספה ממקורות ציבוריים על ידי Vizoryo. זה אינו האתר של העסק.",
+    "correct_this_record": "https://www.vizoryo.com/he/correct/h3-0000",
+    "remove_this_record": "https://www.vizoryo.com/he/remove/h3-0000",
+    "machine_readable": "https://www.vizoryo.com/he/business/dental-clinic/haifa/shaked-dental.json · https://www.vizoryo.com/he/business/dental-clinic/haifa/shaked-dental.md"
+  }
+}

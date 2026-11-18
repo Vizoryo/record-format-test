@@ -1,0 +1,81 @@
+{
+  "name": "ספרים ומילים (Sfarim UMilim) — חנות ספרים בירושלים, ישראל",
+  "identity": {
+    "category": "חנות ספרים",
+    "place": "ירושלים",
+    "status": "פעיל",
+    "record_built": "2026-11-01"
+  },
+  "what_it_does": {
+    "text": "ספרים ומילים היא חנות ספרים בירושלים המוכרת ספרים חדשים ומשומשים בעברית ובאנגלית. החנות מזמינה ספרים שאינם במלאי לפי בקשה, בדרך כלל תוך 7–10 ימי עסקים, וקונה ספרים משומשים מהקהל.",
+    "customers_served": "קוראים, סטודנטים, אספנים",
+    "how_it_serves": "בחנות"
+  },
+  "services": {
+    "items": [
+      {
+        "name": "ספרים משומשים",
+        "price": "ILS 15–45 לספר (נכון ל-2026-11-01)"
+      },
+      {
+        "name": "הזמנת ספרים שאינם במלאי",
+        "duration": "בדרך כלל 7–10 ימי עסקים",
+        "conditions": "ללא מקדמה"
+      },
+      "ספרים חדשים",
+      "קניית ספרים משומשים מהקהל"
+    ]
+  },
+  "location": {
+    "address": "רחוב הדוגמה 7, ירושלים 9400000, ישראל",
+    "neighbourhood": "מרכז העיר"
+  },
+  "contact_and_actions": {
+    "phone": "+972 2-000-0303",
+    "website": "https://sfarim-umilim.example",
+    "email": "shop@sfarim-umilim.example"
+  },
+  "opening_hours": {
+    "time_zone": "Asia/Jerusalem",
+    "sunday": "09:00–20:00",
+    "monday": "09:00–20:00",
+    "tuesday": "09:00–20:00",
+    "wednesday": "09:00–20:00",
+    "thursday": "09:00–20:00",
+    "friday": "09:00–14:00",
+    "saturday": "סגור"
+  },
+  "good_to_know": {
+    "delivery": "לא צוין על ידי העסק",
+    "payment": "כרטיס אשראי, מזומן",
+    "languages": "עברית, אנגלית"
+  },
+  "questions_and_answers": {
+    "items": [
+      {
+        "name": "האם אתם קונים ספרים משומשים?",
+        "answer": "כן, בימים א׳–ה׳ עד 18:00, לפי בדיקה במקום",
+        "notes": [
+          "לפי העסק"
+        ]
+      },
+      {
+        "name": "האם יש מועדון לקוחות?",
+        "answer": "כן, 10% הנחה על ספרים חדשים לחברי המועדון",
+        "notes": [
+          "לפי בעל העסק, 2026-10-30"
+        ]
+      }
+    ]
+  },
+  "about_this_record": {
+    "record_origin": "נתבעה על ידי העסק",
+    "items": [
+      "נבדק מול 3 מקורות ציבוריים ב-2026-11-01"
+    ],
+    "publisher": "רשומה עצמאית שנאספה ממקורות ציבוריים על ידי Vizoryo. זה אינו האתר של העסק.",
+    "correct_this_record": "https://www.vizoryo.com/he/correct/h4-0000",
+    "remove_this_record": "https://www.vizoryo.com/he/remove/h4-0000",
+    "machine_readable": "https://www.vizoryo.com/he/business/bookstore/jerusalem/sfarim-umilim.json · https://www.vizoryo.com/he/business/bookstore/jerusalem/sfarim-umilim.md"
+  }
+}

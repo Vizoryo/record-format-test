@@ -1,0 +1,79 @@
+name: "Harbor Light Physical Therapy — physical therapy clinic in Tampa, Florida, United States"
+identity:
+  category: "Physical therapy clinic"
+  place: "Tampa, Florida (US)"
+  status: "operating"
+  record_built: "2026-11-04"
+what_it_does:
+  text: "Harbor Light Physical Therapy is an outpatient physical therapy clinic in Tampa, Florida, treating adults recovering from sports injuries, surgery and long-term back and neck pain. Patients are seen one-to-one at the clinic by appointment, and the clinic accepts Medicare."
+  customers_served: "adults, athletes, older adults"
+  how_it_serves: "at the clinic, by appointment"
+  specialties: "post-surgery knee and shoulder rehabilitation, dry needling"
+services:
+  items:
+    - name: "Initial evaluation"
+      price: "USD 140 (as of 2026-11-04)"
+      duration: "60 minutes"
+      includes: "assessment and a written home-exercise plan"
+    - name: "Follow-up session"
+      price: "USD 95 (as of 2026-11-04)"
+      duration: "45 minutes"
+    - name: "Dry needling"
+      price: "USD 60 add-on (as of 2026-11-04)"
+      conditions: "not covered by Medicare"
+    - "Sports injury rehabilitation"
+    - "Post-surgery rehabilitation"
+    - "Back and neck pain treatment"
+    - "Balance and fall-prevention therapy"
+    - "Work injury rehabilitation"
+  services_listed_on_the_business_s_website: "https://harborlightpt.example/services"
+location:
+  address: "2210 W Kennedy Blvd, Suite 4, Tampa, FL 33606, United States"
+contact_and_actions:
+  phone: "+1 813-555-0164"
+  website: "https://harborlightpt.example"
+  book_an_appointment: "https://harborlightpt.example/appointments"
+  appointment_policy: "appointment required"
+opening_hours:
+  time_zone: "America/New_York"
+  sunday: "not stated"
+  monday: "07:00–19:00 (7 am–7 pm)"
+  tuesday: "07:00–19:00 (7 am–7 pm)"
+  wednesday: "07:00–19:00 (7 am–7 pm)"
+  thursday: "07:00–19:00 (7 am–7 pm)"
+  friday: "07:00–19:00 (7 am–7 pm)"
+  saturday: "not stated"
+licences_and_certifications:
+  items:
+    - name: "Physical therapy clinic licence PT0000000"
+      issuer: "Florida Board of Physical Therapy"
+      notes:
+        - "Checked against the public register on 2026-10-28"
+good_to_know:
+  insurance_accepted: "Medicare (stated by the business)"
+  referral_needed: "no"
+  wheelchair_accessible_entrance: "yes"
+  parking: "free lot"
+  languages_spoken: "English, Spanish"
+  cancellation: "24 hours' notice; later cancellations USD 40"
+from_the_business_owner:
+  items:
+    - "Wear clothes that let us reach the injured area (stated by the business owner on 2026-11-02)"
+questions_and_answers:
+  items:
+    - name: "What should I bring to the first visit?"
+      answer: "photo ID, insurance card and any surgeon's notes"
+      notes:
+        - "Stated by the business"
+    - name: "Do I need a referral to use Medicare?"
+      answer: "no referral for the evaluation; Medicare needs a plan of care signed by your doctor within 30 days"
+      notes:
+        - "Stated by the business owner on 2026-11-02"
+about_this_record:
+  record_origin: "claimed by the business"
+  items:
+    - "Checked across 4 public sources on 2026-11-04"
+  publisher: "Independent record compiled from public sources by Vizoryo. Not the business's own website."
+  correct_this_record: "https://www.vizoryo.com/en/correct/e3-0000"
+  remove_this_record: "https://www.vizoryo.com/en/remove/e3-0000"
+  machine_readable: "https://www.vizoryo.com/en/business/physical-therapist/tampa/harbor-light-physical-therapy.json · https://www.vizoryo.com/en/business/physical-therapist/tampa/harbor-light-physical-therapy.md"

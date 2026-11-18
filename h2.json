@@ -1,0 +1,90 @@
+{
+  "name": "א.ש. מיזוג אוויר (A.Sh. Mizug) — טכנאי מיזוג אוויר המשרת את ראשון לציון והסביבה, ישראל",
+  "identity": {
+    "category": "טכנאי מיזוג אוויר",
+    "place": "משרת את ראשון לציון, חולון ובת ים",
+    "status": "פעיל",
+    "record_built": "2026-11-03"
+  },
+  "what_it_does": {
+    "text": "א.ש. מיזוג אוויר מתקין, מתקן ומנקה מזגנים בבתים ובעסקים קטנים בראשון לציון, חולון ובת ים, ונותן מחיר קבוע לפני תחילת העבודה. העסק מגיע לבית הלקוח ואין לו חנות פתוחה לקהל.",
+    "customers_served": "בתים פרטיים, עסקים קטנים",
+    "how_it_serves": "מגיע ללקוח",
+    "specialties": "מזגני מיני מרכזי"
+  },
+  "services": {
+    "items": [
+      {
+        "name": "ניקוי מזגנים",
+        "price": "ILS 250 ליחידה (נכון ל-2026-11-03)",
+        "duration": "כשעה",
+        "includes": "ניקוי פילטרים ושטיפת היחידה הפנימית"
+      },
+      {
+        "name": "התקנת מזגנים",
+        "price": "מ-ILS 650 ליחידה (נכון ל-2026-11-03)",
+        "includes": "עד 3 מטר צנרת",
+        "conditions": "צנרת נוספת בתוספת תשלום"
+      },
+      {
+        "name": "מילוי גז",
+        "price": "ILS 350 (נכון ל-2026-11-03)"
+      },
+      "תיקון מזגנים",
+      "התקנת מיני מרכזי",
+      "פירוק והרכבה במעבר דירה"
+    ],
+    "services_listed_on_website": "https://ash-mizug.example/services"
+  },
+  "service_area": {
+    "base_city": "ראשון לציון",
+    "areas_served": "ראשון לציון; חולון; בת ים"
+  },
+  "contact_and_actions": {
+    "phone": "+972 3-000-0101",
+    "whatsapp": "+972 50-000-0101",
+    "website": "https://ash-mizug.example",
+    "schedule_a_visit": "בטלפון או בוואטסאפ"
+  },
+  "opening_hours": {
+    "time_zone": "Asia/Jerusalem",
+    "sunday": "08:00–18:00",
+    "monday": "08:00–18:00",
+    "tuesday": "08:00–18:00",
+    "wednesday": "08:00–18:00",
+    "thursday": "08:00–18:00",
+    "friday": "08:00–13:00",
+    "saturday": "סגור"
+  },
+  "good_to_know": {
+    "work_warranty": "שנה על התקנה, 3 חודשים על תיקון",
+    "refrigeration_technician_licence": "לא צוין על ידי העסק",
+    "how_it_charges": "מחיר קבוע לפי סוג העבודה",
+    "payment": "מזומן, ביט, העברה בנקאית",
+    "languages": "עברית, רוסית"
+  },
+  "from_the_business_owner": {
+    "before_the_visit": "לפנות גישה ליחידה החיצונית (לפי בעל העסק, 2026-11-01)"
+  },
+  "questions_and_answers": {
+    "items": [
+      {
+        "name": "האם יש תשלום על ביקור?",
+        "answer": "כן, ILS 150 שמתקזזים מעלות התיקון אם מבצעים אותו",
+        "notes": [
+          "לפי בעל העסק, 2026-11-01"
+        ]
+      }
+    ]
+  },
+  "about_this_record": {
+    "record_origin": "נתבעה על ידי העסק",
+    "items": [
+      "נבדק מול 3 מקורות ציבוריים ב-2026-11-03"
+    ],
+    "publisher": "רשומה עצמאית שנאספה ממקורות ציבוריים על ידי Vizoryo. זה אינו האתר של העסק.",
+    "correct_this_record": "https://www.vizoryo.com/he/correct/h2-0000",
+    "remove_this_record": "https://www.vizoryo.com/he/remove/h2-0000",
+    "machine_readable": "https://www.vizoryo.com/he/business/air-conditioning-contractor/rishon-lezion/a-sh-mizug.json · https://www.vizoryo.com/he/business/air-conditioning-contractor/rishon-lezion/a-sh-mizug.md"
+  }
+}

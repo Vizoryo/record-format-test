@@ -1,0 +1,76 @@
+{
+  "name": "קוד-ליין פתרונות (CodeLine Solutions) — תוכנה להפקת חשבוניות לעסקים קטנים, ישראל",
+  "identity": {
+    "category": "חברת תוכנה",
+    "place": "אונליין; משרתת את ישראל",
+    "status": "פעיל",
+    "record_built": "2026-11-05"
+  },
+  "what_it_does": {
+    "text": "קוד-ליין פתרונות מוכרת תוכנה מקוונת להפקת חשבוניות וקבלות לעסקים קטנים ולעצמאים בישראל. התוכנה מפיקה מסמכים דיגיטליים, מחברת סליקת אשראי ומכינה דוחות למע״מ, במנוי חודשי ללא התחייבות. השירות מקוון בלבד, ללא משרד פתוח לקהל.",
+    "customers_served": "עסקים קטנים, עצמאים",
+    "how_it_serves": "אונליין",
+    "countries_served": "ישראל"
+  },
+  "services": {
+    "items": [
+      {
+        "name": "מסלול בסיסי",
+        "price": "ILS 49 לחודש (נכון ל-2026-11-05)",
+        "includes": "עד 50 מסמכים בחודש"
+      },
+      {
+        "name": "מסלול ללא הגבלה",
+        "price": "ILS 99 לחודש (נכון ל-2026-11-05)",
+        "includes": "מסמכים ללא הגבלה; סליקת אשראי; ייצוא לרואה חשבון"
+      },
+      "הפקת חשבוניות וקבלות דיגיטליות",
+      "סליקת אשראי",
+      "דוחות למע״מ",
+      "ייצוא לרואה חשבון",
+      "חיבור לחשבון הבנק"
+    ],
+    "services_listed_on_website": "https://code-line.example/features"
+  },
+  "where_it_works": {
+    "office_open_to_public": "לא — אונליין בלבד",
+    "countries_served": "ישראל"
+  },
+  "contact_and_actions": {
+    "phone": "לא צוין על ידי העסק",
+    "email": "sales@code-line.example",
+    "website": "https://code-line.example",
+    "contact_form": "https://code-line.example/contact"
+  },
+  "opening_hours": {
+    "opening_hours": "לא צוין"
+  },
+  "good_to_know": {
+    "how_it_charges": "מנוי חודשי",
+    "free_trial": "כן, 14 יום",
+    "support_hours": "לא צוין על ידי העסק",
+    "languages": "עברית",
+    "commitment": "ללא התחייבות; ביטול בכל חודש"
+  },
+  "questions_and_answers": {
+    "items": [
+      {
+        "name": "האם אפשר לעבור ממערכת אחרת?",
+        "answer": "כן, ייבוא לקוחות ומסמכים בקובץ אקסל",
+        "notes": [
+          "לפי בעל העסק, 2026-11-03"
+        ]
+      }
+    ]
+  },
+  "about_this_record": {
+    "record_origin": "נתבעה על ידי העסק",
+    "items": [
+      "נבדק מול 3 מקורות ציבוריים ב-2026-11-05"
+    ],
+    "publisher": "רשומה עצמאית שנאספה ממקורות ציבוריים על ידי Vizoryo. זה אינו האתר של העסק.",
+    "correct_this_record": "https://www.vizoryo.com/he/correct/h5-0000",
+    "remove_this_record": "https://www.vizoryo.com/he/remove/h5-0000",
+    "machine_readable": "https://www.vizoryo.com/he/business/software-company/israel/code-line.json · https://www.vizoryo.com/he/business/software-company/israel/code-line.md"
+  }
+}

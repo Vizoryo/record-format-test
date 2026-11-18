@@ -1,0 +1,65 @@
+name: "הזית הירוק (HaZait HaYarok) — מסעדה ים-תיכונית בתל אביב-יפו, ישראל"
+identity:
+  category: "מסעדה ים-תיכונית"
+  place: "תל אביב-יפו"
+  status: "פעיל"
+  record_built: "2026-11-02"
+what_it_does:
+  text: "הזית הירוק היא מסעדה ים-תיכונית כשרה בתל אביב-יפו, המגישה ארוחות צהריים וערב עם דגש על דגים ומנות על האש, וארוחה עסקית בימי חול. אפשר לשבת במקום, להזמין משלוח או לאסוף."
+  cuisine: "ים-תיכוני, דגים"
+  how_it_serves: "ישיבה במקום · משלוח · איסוף עצמי"
+services:
+  items:
+    - name: "ארוחה עסקית"
+      price: "ILS 79 (נכון ל-2026-11-02)"
+      includes: "מנה ראשונה ומנה עיקרית"
+      conditions: "ראשון–חמישי 12:00–17:00"
+    - name: "משלוח"
+      price: "ILS 15 (נכון ל-2026-11-02)"
+      conditions: "עד 3 ק״מ"
+location:
+  address: "רחוב הדוגמה 12, תל אביב-יפו 6800000, ישראל"
+contact_and_actions:
+  phone: "+972 3-000-0000"
+  website: "https://hazait-hayarok.example"
+  menu: "https://hazait-hayarok.example/menu"
+  book_a_table: "https://hazait-hayarok.example/reserve"
+  reservations: "מתקבלת"
+opening_hours:
+  time_zone: "Asia/Jerusalem"
+  sunday: "12:00–23:00"
+  monday: "12:00–23:00"
+  tuesday: "12:00–23:00"
+  wednesday: "12:00–23:00"
+  thursday: "12:00–00:00"
+  friday: "11:00 עד שעתיים לפני כניסת השבת"
+  saturday: "סגור"
+licences_and_certifications:
+  kosher:
+    value: "הרבנות תל אביב-יפו"
+    valid_until: "2027-03-31"
+    notes:
+      - "לפי העסק"
+good_to_know:
+  wheelchair_accessible_entrance: "לא צוין על ידי העסק"
+  parking: "לא צוין על ידי העסק"
+  payment: "כרטיס אשראי, מזומן, ביט"
+  price_range: "ILS 48–96 למנה עיקרית"
+  languages: "עברית, אנגלית"
+  cancellation_policy: "ביטול ללא עלות עד 24 שעות לפני; קבוצות של 8 ומעלה — ILS 50 לסועד בביטול מאוחר"
+from_the_business_owner:
+  events: "עד 40 סועדים בחלל הפנימי (לפי בעל העסק, 2026-11-01)"
+questions_and_answers:
+  items:
+    - name: "האם יש מנות טבעוניות?"
+      answer: "כן, שלוש מנות עיקריות טבעוניות בתפריט הקבוע"
+      notes:
+        - "לפי בעל העסק, 2026-11-01"
+about_this_record:
+  record_origin: "נתבעה על ידי העסק"
+  items:
+    - "נבדק מול 3 מקורות ציבוריים ב-2026-11-02"
+  publisher: "רשומה עצמאית שנאספה ממקורות ציבוריים על ידי Vizoryo. זה אינו האתר של העסק."
+  correct_this_record: "https://www.vizoryo.com/he/correct/h1-0000"
+  remove_this_record: "https://www.vizoryo.com/he/remove/h1-0000"
+  machine_readable: "https://www.vizoryo.com/he/business/restaurant/tel-aviv-yafo/hazait-hayarok.json · https://www.vizoryo.com/he/business/restaurant/tel-aviv-yafo/hazait-hayarok.md"
